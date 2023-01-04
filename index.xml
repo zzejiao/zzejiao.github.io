@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
+    <title>Zejiao&#39;s Cyberspace</title>
     <link>https://zzejiao.github.io/</link>
-    <description>Recent content on ExampleSite</description>
-    <image>
-      <url>https://zzejiao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://zzejiao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <description>Recent content on Zejiao&#39;s Cyberspace</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://zzejiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://zzejiao.github.io/about/</link>
+      <pubDate>Wed, 04 Jan 2023 15:27:30 -0600</pubDate>
+      
+      <guid>https://zzejiao.github.io/about/</guid>
+      <description>Basic infos age: 22 year old
+gender: female,
+current cs student
+B.A. in English at Nanjing University(but suffer from studying liberal arts)
+a mediocre musickmaker and guitar/bass player
+What I like Cat! Love all the cats. My dream is to open a shelter to help stray cats find a lovely home</description>
+    </item>
+    
   </channel>
 </rss>

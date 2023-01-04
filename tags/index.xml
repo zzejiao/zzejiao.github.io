@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Zejiao&#39;s Cyberspace</title>
-    <link>catnpeace.me/tags/</link>
-    <description>Recent content in Tags on Zejiao&#39;s Cyberspace</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="catnpeace.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on ExampleSite</title>
+    <link>https://zzejiao.github.io/tags/</link>
+    <description>Recent content in Tags on ExampleSite</description>
+    <image>
+      <url>https://zzejiao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zzejiao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zzejiao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

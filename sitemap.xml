@@ -2,46 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>catnpeace.me/archives/</loc>
-    <lastmod>2023-01-03T00:05:41-06:00</lastmod>
+    <loc>https://zzejiao.github.io/categories/</loc>
   </url><url>
-    <loc>catnpeace.me/posts/life/</loc>
-    <lastmod>2023-01-03T00:05:41-06:00</lastmod>
+    <loc>https://zzejiao.github.io/</loc>
   </url><url>
-    <loc>catnpeace.me/posts/</loc>
-    <lastmod>2023-01-03T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/posts/music/mycollections/</loc>
-    <lastmod>2023-01-03T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/posts/life/nothingyet/</loc>
-    <lastmod>2023-01-03T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/search/</loc>
-    <lastmod>2023-01-03T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/</loc>
-    <lastmod>2023-01-03T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/about/</loc>
-    <lastmod>2022-12-31T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/posts/music/</loc>
-    <lastmod>2022-12-31T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/posts/tech/projects/</loc>
-    <lastmod>2022-12-31T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/posts/music/myperformance/</loc>
-    <lastmod>2022-12-31T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/posts/tech/</loc>
-    <lastmod>2022-12-31T00:05:41-06:00</lastmod>
-  </url><url>
-    <loc>catnpeace.me/categories/</loc>
-  </url><url>
-    <loc>catnpeace.me/series/</loc>
-  </url><url>
-    <loc>catnpeace.me/tags/</loc>
+    <loc>https://zzejiao.github.io/tags/</loc>
   </url>
 </urlset>

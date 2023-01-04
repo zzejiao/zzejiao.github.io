@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: catnpeace.me/sitemap.xml
+Sitemap: https://zzejiao.github.io/sitemap.xml

@@ -1,2 +1,2 @@
-# zzejiao's personal website
-click here to view: catnpeace.me
+# zzejiao.github.io
+click here to view: https://catnpeace.me

@@ -2,13 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zzejiao.github.io/posts/music/</loc>
+    <lastmod>2023-01-04T15:51:58-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/posts/</loc>
+    <lastmod>2023-01-04T15:51:58-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/posts/music/myperformances/</loc>
+    <lastmod>2023-01-04T15:51:58-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/</loc>
+    <lastmod>2023-01-04T15:51:58-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/posts/music/mycollection/</loc>
+    <lastmod>2023-01-04T15:50:49-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/posts/tech/projects/</loc>
+    <lastmod>2023-01-04T15:50:34-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/posts/tech/</loc>
+    <lastmod>2023-01-04T15:50:34-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/posts/life/</loc>
+    <lastmod>2023-01-04T15:50:19-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/posts/life/nothingyet/</loc>
+    <lastmod>2023-01-04T15:50:19-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/archives/</loc>
+    <lastmod>2023-01-04T15:49:59-06:00</lastmod>
+  </url><url>
+    <loc>https://zzejiao.github.io/search/</loc>
+    <lastmod>2023-01-04T15:49:52-06:00</lastmod>
+  </url><url>
     <loc>https://zzejiao.github.io/about/</loc>
     <lastmod>2023-01-04T15:27:30-06:00</lastmod>
   </url><url>
     <loc>https://zzejiao.github.io/categories/</loc>
   </url><url>
     <loc>https://zzejiao.github.io/tags/</loc>
-  </url><url>
-    <loc>https://zzejiao.github.io/</loc>
   </url>
 </urlset>

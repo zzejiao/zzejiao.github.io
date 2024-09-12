@@ -1,0 +1,19 @@
+---
+title: "Jiao's 2nd Personal Website"
+---
+
+This is a Quarto website.
+
+Hey everyone welcome to my second personal website.
+
+Before I've tried to build a personal site using Hugo Framework and it was so fun doing that. 
+However I didn't really manage that site very well and didn't update any more blogs anfter a month.
+
+I'm currently taking the MDS program in UBC and one small part of my labs required me to build a site using Quarto.
+
+Hope I will comeback soon and start working on my portfolio and maybe post some blogs!
+
+Best,
+Jiao
+
+2024/09/12

@@ -1,0 +1,37 @@
+---
+title: "About Myself"
+---
+
+Hey everyone welcome to my second personal website.
+
+Before I've tried to build a personal site using Hugo Framework and it was so fun doing that. 
+However I didn't really manage that site very well and didn't update any more blogs anfter a month.
+
+I'm currently taking the MDS program in UBC and one small part of my labs ask me to built a site using Quarto.
+
+Al-rightio, Let's do this!!!
+
+Some self-introduction.
+
+My name's Jiao. I'm from China and I was born in Year 2000, which means I'm 24 now!(Just incase I'm not updating in the future I put my year of birth lol).
+I did my undergrad in NJU and got my BA in English Literature. now I'm doing Master of DataScience-CL in UBC
+
+I love cats I have a calico cat I adopted(kidnapped) a street cat from my undergrad campus and I lover her soooo much.
+
+
+I like doing some puzzles and playing coolki, 2048 games lol.(been playing them since I'm 12). I'm generally ADHD-like and would be very very easily distracted by surroundings(or by myself lol). However when playing these kinds of games I'm totally absorbed and addicted I don't know why. 
+Tips for ADHDers: I recently found that eating less food helps with getting distracted! Do not eat too much each meal. Eat till your stomach is 70% full and that's enough. It helps with not getting into that hyper-active state.(At least for me it works like that.)
+
+Sometimes I feel like it's really easy for me to forget things(even forget the thing I love). I'm also a music lover. I used to play guitar and bass in my undergrad in bands and I love my band fellows. However, after I graduated I never picked up my guitar/bass.First reason is I'm lazy and the second reason is that sometimes if I don't listen to music, I will forget that How much I love it.....Damn I hope someday I will pick them up and make some of my own music.
+
+I'm also a liberal and a feminist. But I don't have time to elaborate on this lol I'm running to do my next lab. I'm doing this only because this is part of my assignment I shouldn't spend too much time on this.
+
+OKKay see you later and see myself next time. I hope I will come back soon to edit this page and post more blogs.
+
+Best, 
+Jiao
+
+2024/09/12
+
+
+
